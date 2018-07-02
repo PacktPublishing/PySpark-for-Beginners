@@ -17,7 +17,7 @@ To fully benefit from the coverage included in this course, you will need:<br/>
 If you are a Python developer who wants to learn about the Apache Spark 2.0 ecosystem, this course is for you. A firm understanding of Python is expected to get the best out of the book. Familiarity with Spark would be useful, but is not mandatory.
 ### Technical Requirements
 This course has the following software requirements:<br/>
-Python 3
+[Python 3](https://www.python.org/downloads/)
 
 ## Related Products
 * [Apache Spark with Python - Big Data with PySpark and Spark [Video]](https://www.packtpub.com/big-data-and-business-intelligence/apache-spark-python-big-data-pyspark-and-spark-video?utm_source=github&utm_medium=repository&utm_campaign=9781789133394)
